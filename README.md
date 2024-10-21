@@ -6,7 +6,7 @@
 
 ## WebSite pages
 
-![Screenshot 2024-10-21 091759](https://github.com/user-attachments/assets/74cce8e1-7b38-46b0-bb06-e034d4db2389)
-![Screenshot 2024-10-21 091742](https://github.com/user-attachments/assets/161660f1-af40-4c17-af1c-d82898a0c593)
-![Screenshot 2024-10-21 091727](https://github.com/user-attachments/assets/e91f3f71-c1f3-4891-9b7a-11a1dfa8d4e7)
-![Screenshot 2024-10-21 091809](https://github.com/user-attachments/assets/efc0cc16-d65f-41b8-bde2-5ed0fed7e5b3)
+![Screenshot 2024-10-22 005338](https://github.com/user-attachments/assets/e64d3de4-3ff1-4b59-a00c-23266db9d95e)
+![Screenshot 2024-10-22 005521](https://github.com/user-attachments/assets/cb70722e-94b1-4d45-a7da-9e9a5dd0f011)
+![Screenshot 2024-10-22 005602](https://github.com/user-attachments/assets/9dc85908-ab85-4bc2-a3eb-dd00072e4174)
+![Screenshot 2024-10-22 005632](https://github.com/user-attachments/assets/19dc25bd-bca9-4ea7-ac20-d2cc7a0b8d3b)
